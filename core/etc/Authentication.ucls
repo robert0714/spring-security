@@ -5,7 +5,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/core/Authentication.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="705" y="732"/>    
+    <position height="-1" width="-1" x="319" y="539"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -16,7 +16,7 @@
     project="spring-security-cas" 
     file="/spring-security-cas/src/main/java/org/springframework/security/cas/authentication/CasAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="987" y="606"/>    
+    <position height="-1" width="-1" x="556" y="142"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -27,7 +27,7 @@
     project="spring-security-openid" 
     file="/spring-security-openid/src/main/java/org/springframework/security/openid/OpenIDAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="413" y="559"/>    
+    <position height="-1" width="-1" x="335" y="289"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="false" static="true"/>      
@@ -38,7 +38,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/authentication/AbstractAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="708" y="467"/>    
+    <position height="-1" width="-1" x="711" y="500"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -49,7 +49,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/authentication/AnonymousAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1006" y="512"/>    
+    <position height="-1" width="-1" x="850" y="113"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -61,7 +61,7 @@
     project="spring-security-web" 
     file="/spring-security-web/src/main/java/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="471" y="242"/>    
+    <position height="-1" width="-1" x="1043" y="202"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -72,7 +72,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/access/intercept/RunAsUserToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="402" y="370"/>    
+    <position height="-1" width="-1" x="1107" y="339"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -83,7 +83,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/authentication/TestingAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1000" y="392"/>    
+    <position height="-1" width="-1" x="1079" y="472"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
@@ -94,7 +94,7 @@
     project="spring-security-core" 
     file="/spring-security-core/src/main/java/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="757" y="227"/>    
+    <position height="-1" width="-1" x="1086" y="598"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="true"/>      
